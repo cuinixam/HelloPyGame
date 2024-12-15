@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier
+_commit: 86aebd8
+_src_path: .
+copyright_year: '2024'
+documentation: true
+email: me@cuinixam.com
+full_name: cuinixam
+github_username: cuinixam
+open_source_license: MIT
+package_name: hello_pygame
+project_name: Hello PyGame
+project_short_description: Playground for PyGame
+project_slug: hello-pygame
+
